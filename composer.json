@@ -1,0 +1,19 @@
+{
+  "name": "narmiel/test1",
+  "autoload": {
+    "psr-4": {
+      "Narmiel\\Test1\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Anvar"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*"
+  },
+  "require-dev": {
+    "fakerphp/faker": "^1.5"
+  }
+}
